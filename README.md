@@ -2,4 +2,4 @@
 
 ### Atividade realizada em JAVA para calcular IMC
 
-#### Leonardo Valensoela && Andre Pires de Figueiredo && Lucas Urbano de Almeida
+#### Leonardo Valensoela & Andre Pires de Figueiredo & Lucas Urbano de Almeida
